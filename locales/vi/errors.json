@@ -1,0 +1,48 @@
+{
+    "input": {
+        "validation": {
+            "email": {
+                "requied": "Email bat buoc nhap!",
+                "pattern": "Email khong dung dinh dang!"
+            },
+            "name": {
+                "requied": "Họ và tên bắt buộc nhập!",
+                "pattern": "Họ và tên không đúng định dạng!"
+            },
+            "password": {
+                "required": "Mật khẩu bắt buộc nhập!",
+                "pattern": "Mật khẩu không đúng định dạng!",
+                "minlength": "Mật khẩu phải dài ít nhất",
+                "minlength2": "Kí tự!"
+            },
+            "confirmPassword": {
+                "required": "Xác nhận mật khẩu bắt buộc nhập!",
+                "pattern": "Xác nhận mật khẩu không đúng định dạng!",
+                "minlength": "Xác nhận mật khẩu phải dài ít nhất",
+                "minlength2": "Kí tự!",
+                "match": "2 mật khẩu không khớp!"
+            },
+            "phone": {
+                "requied": "Số điện thoại bắt buộc nhập!",
+                "pattern": "Số điện thoại không đúng định dạng!"
+            },
+            "termPolicy": {
+                "required": "Điều khoản và dịch vụ bắt buộc nhập!"
+            },
+            "otp": {
+                "required": "OTP bắt buộc nhập!",
+                "pattern": "OTP không đúng định dạng!"
+            }
+        }
+    },
+    "error": {
+        "phone": {
+            "invalid": "Số điện thoại không đúng định dạng!"
+        },
+        "account": {
+            "existed": "Email or phone đã được sử dụng!"
+        },
+        "exception": "Có lỗi xảy ra, vui lòng thử lại!",
+        "otp": "OTP không đúng!"
+    }
+}

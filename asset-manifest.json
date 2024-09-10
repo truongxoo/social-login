@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/social-login/static/css/main.13e4e786.css",
+    "main.js": "/social-login/static/js/main.835d0ecb.js",
+    "index.html": "/social-login/index.html",
+    "static/media/getFetch.cjs": "/social-login/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.13e4e786.css.map": "/social-login/static/css/main.13e4e786.css.map",
+    "main.835d0ecb.js.map": "/social-login/static/js/main.835d0ecb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13e4e786.css",
+    "static/js/main.835d0ecb.js"
+  ]
+}
