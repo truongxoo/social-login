@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+
+.page {
+  margin: 0 16px;
+
+  .title-page {
+    font-weight: 700;
+  }
+
+  .page-container {
+    height: 100%;
+    width: 100%;
+    background-color: #fff;
+    min-height: 360px;
+    border-radius: 40px;
+    padding: 30px 75px;
+
+    .sub-title-page {
+      margin-bottom: 10px;
+      .sub-title {
+        font-weight: 500;
+        font-size: 27px;
+      }
+    }
+  }
+}
+
+.ant-layout-has-sider {
+  position: relative;
+}

@@ -1,0 +1,179 @@
+{
+  "input": {
+    "email": {
+      "label": "Email Address",
+      "placeholder": "Enter Your Email"
+    },
+    "password": {
+      "label": "Password",
+      "label2": "New Password",
+      "label3": "Current Password",
+      "placeholder": "Enter Your Password"
+    },
+    "confirm-password": {
+      "label": "Confirm Password",
+      "label2": "Confirm New Password",
+      "placeholder": "Re-enter Your Password"
+    },
+    "phone": {
+      "label": "Phone Number",
+      "placeholder": "Enter Your Phone Number"
+    },
+    "name": {
+      "label": "Full Name",
+      "placeholder": "Enter Your Full Name"
+    },
+    "recipientName": {
+      "label": "Recipient Name",
+      "placeholder": "Enter Your Recipient Name"
+    },
+    "address": {
+      "label": "Address",
+      "placeholder": "Enter Your Address"
+    },
+    "postalZip": {
+      "label": "Postal Zip",
+      "placeholder": "Enter Your Postal Zip"
+    },
+    "cardHolderName": {
+      "label": "Card Holder Name",
+      "placeholder": "Enter Your Card Holder Name"
+    },
+    "cardNumber": {
+      "label": "Card Number",
+      "placeholder": "Enter Your Card Number"
+    },
+    "expiredDate": {
+      "label": "Expired Date",
+      "placeholder": "Enter Your Expired Date"
+    },
+    "cvv": {
+      "label": "CVV Code",
+      "placeholder": "Enter Your CVV Code"
+    },
+    "price": {
+      "label": "Hourly rate",
+      "placeholder": "Enter your hourly rate"
+    }
+  },
+  "button": {
+    "login": "Sign In",
+    "register": "Sign Up",
+    "continue": {
+      "google": "Google",
+      "facebook": "Facebook",
+      "github": "Github",
+      "email": "Continue with Email",
+      "sign-up": "Continue",
+      "save": "Save",
+      "bookingForm": "Continue"
+    },
+    "next": "Next",
+    "cancel": "Cancel",
+    "done": "Done",
+    "accept": "Accept",
+    "logout": {
+      "title": "Confirm logout",
+      "message": "Are your sure you want to logout?",
+      "cancel": "Cancel",
+      "confirm": "Confirm"
+    },
+    "submitReview": "Submit",
+    "readMore": "Read More",
+    "showLess": "Show Less",
+    "bookingPayment": {
+      "checkout": "Process To Checkout"
+    }
+  },
+  "checkbox": {
+    "remember": "Remember me"
+  },
+  "select": {
+    "accountType": "Account",
+    "city": "City",
+    "area": "Area",
+    "phone": "Phone"
+  },
+  "href": {
+    "forgot-password": "Forgot your password?"
+  },
+  "otp": {
+    "label": "To continue, please enter the OTP code that has been sent to",
+    "label2": "Enter 6-digits Code",
+    "resend-otp": "Resend Code",
+    "labelResend": "I didn't receive code.",
+    "verify": "Verify Code",
+    "labelSec": "Sec left"
+  },
+  "login": {
+    "title": "Sign In",
+    "have-account": "Don't have an account?",
+    "register-link": "Sign Up",
+    "or": "Or login with"
+  },
+  "register": {
+    "title": "Get Started Now",
+    "signUp": "Sign Up",
+    "have-account": "Have an account?",
+    "register-link": "Sign In",
+    "or": "Or"
+  },
+  "terms-policy": {
+    "label": "I agree to the",
+    "label2": "Terms & Policy",
+    "title": "SparkFix Global Privacy Policy",
+    "time": "Last Updated: April 30, 2021"
+  },
+  "notification": {
+    "error": "Error",
+    "success": "Success",
+    "registerSuccess": "You have successfully registered!",
+    "changePasswordSuccess": "Change password successfully!",
+    "resetPasswordSuccess": "Reset password successfully!",
+    "selectDateTime": "Select date time successfully!",
+    "profileUpdateSuccess": "Update profile successfully!",
+    "updateService": "Update service successfully!",
+    "deleteService": "Update service successfully!",
+    "deleteFavorite": "Remove provider from favorite list successfully!"
+  },
+  "footer": {
+    "menu": {
+      "explore": "Explore",
+      "blog": "Blog",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "copy-right": "Copyright ⓒ 2024 Sparkminds All Rights Reserved"
+  },
+  "profile": {
+    "title": "User Profile",
+    "fullName": {
+      "label": "Full Name",
+      "placeholder": "Enter Your Full Name"
+    },
+    "email": {
+      "label": "Email Address",
+      "placeholder": "Enter Your Email"
+    },
+    "gender": {
+      "label": "Gender",
+      "placeholder": "Enter Your Gender"
+    },
+    "country": {
+      "label": "Country",
+      "placeholder": "Enter Your Country"
+    },
+    "phone": {
+      "label": "Phone Number",
+      "placeholder": "Enter Your Phone Number"
+    },
+    "location": {
+      "label": "Location",
+      "placeholder": "Enter Your Location"
+    },
+    "address": {
+      "label": "Address",
+      "placeholder": "Enter Your Address"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "input": {
+    "email": {
+      "label": "Email",
+      "placeholder": "info@sparkminds.net"
+    },
+    "password": {
+      "label": "Mật Khẩu",
+      "placeholder": "Nhập Mật Khẩu"
+    },
+    "confirm-password": {
+      "label": "Xác Nhận Mật Khẩu",
+      "placeholder": "Nhập Mật Khẩu"
+    },
+    "phone": {
+      "label": "Số Điện Thoại",
+      "placeholder": "0932 058 1231"
+    },
+    "name": {
+      "label": "Họ Và Tên",
+      "placeholder": "Jordan Nico"
+    }
+  },
+  "button": {
+    "login": "Đăng Nhập",
+    "register": "Đăng Ký",
+    "continue": {
+      "email": "Tiếp Tục Với Email",
+      "phone": "Tiếp Tục Với Số Điện Thoại",
+      "sign-up": "Tiếp Tục"
+    }
+  },
+  "checkbox": {
+    "remember": "Nhớ đăng nhập 30 ngày"
+  },
+  "select": {
+    "accountType": "Tài Khoản",
+    "City": "Thành Phố",
+    "Area": "Khu Vực",
+    "Phone": "Số Điện Thoại"
+  },
+  "href": {
+    "forgot-password": "Quên mật khẩu?"
+  },
+  "otp": {
+    "label": "Để tiếp tuc, vui lòng nhập mã OTP được gửi đến ",
+    "resend-otp": "Gửi lại OTP",
+    "labelResend": "Tôi không nhận được code. ",
+    "verify": "Xác thực code",
+    "labelSec": "Giây"
+  },
+  "login": {
+    "title": "Đăng Nhập",
+    "have-account": "Bạn chưa có tài khoản?",
+    "register-link": "Đăng ký ngay",
+    "or": "Hoặc"
+  },
+  "register": {
+    "title": "Bắt Đầu Ngay",
+    "signUp": "Đăng Ký",
+    "have-account": "Bạn đã có tài khoản?",
+    "register-link": "Đăng nhập ngay",
+    "or": "Hoặc"
+  },
+  "terms-policy": {
+    "label": "Tôi đồng ý với điều khoản & dịch vụ"
+  },
+  "notification": {
+    "error": "Lỗi",
+    "success": "Thành Công"
+  },
+  "footer": {
+    "menu": {
+      "explore": "Explore 1",
+      "blog": "Blog 1",
+      "about": "About 1",
+      "contact": "Contact 1"
+    },
+    "copy-right": "Copyright ⓒ 2024 Sparkminds All Rights Reserved 1"
+  }
+}

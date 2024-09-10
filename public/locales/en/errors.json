@@ -1,0 +1,122 @@
+{
+    "input": {
+        "validation": {
+            "email": {
+                "required": "Email field is required!",
+                "pattern": "Email wrong format!"
+            },
+            "name": {
+                "required": "Full Name field is required!",
+                "pattern": "Full Name wrong format!"
+            },
+            "recipientName": {
+                "required": "Recipient Name field is required!",
+                "pattern": "Recipient Name wrong format!"
+            },
+            "address": {
+                "required": "Address field is required!",
+                "chooseAddress": "Please choose Address again!"
+            },
+            "postalZip": {
+                "required": "Postal Zip field is required!",
+                "pattern": "Postal Zip wrong format!"
+            },
+            "password": {
+                "required": "Password field is required!",
+                "pattern": "Password wrong format!",
+                "minlength": "characters long",
+                "uppercaseLetter": "One uppercase letter",
+                "lowercaseLetter": "One lowercase letter",
+                "noSpaces": "No spaces",
+                "number": "One number",
+                "specialCharacter": "One special character",
+                "currentPassword": "New password must not match current password!",
+                "currentPasswordWrong": "Current password wrong format!"
+            },
+            "confirmPassword": {
+                "required": "Confirm password field is required!",
+                "pattern": "Confirm password wrong format!",
+                "minlength": "Confirm password must be at least",
+                "minlength2": "characters long!",
+                "match": "Confirm password don't match!"
+            },
+            "phone": {
+                "required": "Phone field is required!",
+                "pattern": "Phone wrong format!"
+            },
+            "termPolicy": {
+                "required": "Terms & Policy field is required!"
+            },
+            "otp": {
+                "required": "OTP field is required!",
+                "pattern": "OTP wrong format!"
+            },
+            "hourly-rate": {
+                "required": "Hourly rate is required!"
+            },
+            "experience": {
+                "required": "Experience field is required!",
+                "pattern": "Experience must be a number!"
+            }
+        }
+    },
+    "error": {
+        "phone": {
+            "invalid": "Phone wrong format!",
+            "not-found": "Phone number not found!"
+        },
+        "account": {
+            "existed": "Email or phone has been used!"
+        },
+        "user": {
+            "not-found": "User not found!"
+        },
+        "exception": "An error occurred, please try again!",
+        "otp": {
+            "correct": "The OTP code isn't correct!",
+            "expired": "The OTP code is expired!",
+            "not-found": "The OTP code isn't correct!"
+        },
+        "authentication": {
+            "unauthorize": "Email or password is incorrect!"
+        },
+        "invalid": "Invalid submit!",
+        "server": {
+            "internal": "Please try again!",
+            "message": "Failed to fetch data from the API!"
+        },
+        "not-found": "Not found!",
+        "required": "Field is required!",
+        "length": "Field Length wrong!",
+        "existed": "Already existed!",
+        "password": {
+            "invalid": "Current Password isn't correct!",
+            "used": "New password cann't be the same as any of the last 5 passwords!"
+        },
+        "token": {
+            "not-found": "Token invalid!"
+        },
+        "booking": {
+            "not-found": "Booking not found!",
+            "cancelled": "Booking has already been cancelled!",
+            "starttime-invalid": "Start time can't before current time",
+            "endtime-invalid": "End time can't before start time"
+        },
+        "key": {
+            "not-found": "Key not found!"
+        },
+        "date-invalid": {
+            "datetime-from": "Please select date from and time from!",
+            "datetime-to": "Please select date from and time to!"
+        },
+        "booking-detail": {
+            "not-found": "Booking detail not found!"
+        },
+        "service-provider": {
+            "not-found": "Provider doesn't offer this service!"
+        },
+        "end_at": {
+            "invalid": "You cant work done before the start time!"
+        }
+    }
+}

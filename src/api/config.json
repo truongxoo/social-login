@@ -1,0 +1,7 @@
+{
+    "apiBaseUrl": {
+        "url": "http://localhost:8080",
+        "auth": "/identity/auth",
+        "user": "/identity/users"
+    }
+}
